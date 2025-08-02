@@ -1,5 +1,4 @@
 ﻿# JS-Projects
  This is for Pratice.
  <br/>
- Author - Samya Sarkar
- 
+ Author - Samya  
